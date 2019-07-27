@@ -1,2 +1,2 @@
 # CNNs-Archtircture-Evaluation
-This notebook would illustrate different CNN archetictures in MNIST fashion classification, implemented using Keras, High-level API build on the top of Tensorflow.
+This notebook would illustrate different CNN archetictures in MNIST fashion classification, implemented using Keras, High-level API build on the top of Tensorflow. The target was to select the top model in terms of training/testing accuracy, and training time. The best neural network was selected, which was default batch size with adaptive learning rate architecture, with validation accuracy 93%.
